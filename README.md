@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ravena Marques Carvalho</h1>
 
-- 🎓 I’m currently studying **Computer Science** at **Federal University of Ceará**
+- 🎓 I’m currently studying **Computer Science** at **Federal University of Ceara**
 
 - 📚 I’m currently learning **Angular and Java**
 
