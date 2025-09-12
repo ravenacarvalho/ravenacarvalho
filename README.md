@@ -3,8 +3,6 @@
 
 - 🎓 I’m currently studying **Computer Science** at **Federal University of Ceara**
 
-- 📚 I’m currently learning **TypeScript and Angular**
-
 - 🚀 I’m looking to collaborate on **development projects**
 
 - 📫 How to reach me **ravena.carvalho@alu.ufc.br**
