@@ -3,8 +3,6 @@
 
 - 🎓 I’m currently studying **Computer Science** at **Federal University of Ceara**
 
-- 🚀 I’m looking to collaborate on **development projects**
-
 - 📫 How to reach me **ravena.carvalho@alu.ufc.br**
 
 <h3 align="left">Connect with me:</h3>
